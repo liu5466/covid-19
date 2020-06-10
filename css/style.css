@@ -2346,7 +2346,7 @@ ul {
 .banner_part .banner_text .banner_text_iner {
   display: table-cell;
   vertical-align: middle;
-  padding-top: 155px;
+  padding-top: 1px;
 }
 
 @media (max-width: 991px) {
@@ -2586,7 +2586,7 @@ ul {
 /* line 206, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_banner.scss */
 .banner_part .banner_item .single_item {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 85px;
   position: relative;
   z-index: 1;
 }
